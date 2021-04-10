@@ -43,6 +43,7 @@ class Client2{
 
 		if(balance.isGreaterThan(request)) {
 			dispenseFunds(request);
+			System.out.println("dfdsfgs");
 		}
 
 	}
